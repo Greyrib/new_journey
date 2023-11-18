@@ -16,3 +16,4 @@ MonoBehaviour:
   sensitivity: 10
   minCameraAngle: -60
   maxCameraAngle: 60
+  jumpForce: 1
